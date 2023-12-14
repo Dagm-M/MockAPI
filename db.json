@@ -1,0 +1,1512 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "businessId": 1,
+      "branchId": 1,
+      "role": "owner",
+      "fullName": "John Doe",
+      "email": "john.doe@example.com",
+      "timestamp": "2023-02-14 15:23:42",
+      "lastLogin": "2023-10-20 08:45:30"
+    },
+    {
+      "id": 2,
+      "businessId": 2,
+      "branchId": 2,
+      "role": "coowner",
+      "fullName": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "timestamp": "2022-08-05 09:12:18",
+      "lastLogin": "2023-11-30 14:20:10"
+    },
+    {
+      "id": 3,
+      "businessId": 3,
+      "branchId": 3,
+      "role": "developer",
+      "fullName": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "timestamp": "2022-11-28 20:34:56",
+      "lastLogin": "2023-07-15 07:55:42"
+    },
+    {
+      "id": 4,
+      "businessId": 4,
+      "branchId": 4,
+      "role": "cashier",
+      "fullName": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "timestamp": "2023-03-17 12:48:30",
+      "lastLogin": "2023-09-18 16:30:25"
+    },
+    {
+      "id": 5,
+      "businessId": 5,
+      "branchId": 5,
+      "role": "admin",
+      "fullName": "Christopher Wilson",
+      "email": "christopher.wilson@example.com",
+      "timestamp": "2022-05-22 07:10:45",
+      "lastLogin": "2023-06-12 22:15:03"
+    },
+    {
+      "id": 6,
+      "businessId": 6,
+      "branchId": 6,
+      "role": "manager",
+      "fullName": "Amanda Miller",
+      "email": "amanda.miller@example.com",
+      "timestamp": "2022-12-10 18:52:14",
+      "lastLogin": "2023-08-28 09:40:50"
+    },
+    {
+      "id": 7,
+      "businessId": 7,
+      "branchId": 7,
+      "role": "developer",
+      "fullName": "Daniel Brown",
+      "email": "daniel.brown@example.com",
+      "timestamp": "2023-01-25 14:30:22",
+      "lastLogin": "2023-11-02 03:12:18"
+    },
+    {
+      "id": 8,
+      "businessId": 8,
+      "branchId": 8,
+      "role": "cashier",
+      "fullName": "Olivia Taylor",
+      "email": "olivia.taylor@example.com",
+      "timestamp": "2022-09-08 09:57:36",
+      "lastLogin": "2023-12-05 12:25:40"
+    },
+    {
+      "id": 9,
+      "businessId": 9,
+      "branchId": 9,
+      "role": "admin",
+      "fullName": "James Anderson",
+      "email": "james.anderson@example.com",
+      "timestamp": "2023-04-14 16:40:51",
+      "lastLogin": "2023-10-10 19:55:22"
+    },
+    {
+      "id": 10,
+      "businessId": 10,
+      "branchId": 10,
+      "role": "manager",
+      "fullName": "Sophia Garcia",
+      "email": "sophia.garcia@example.com",
+      "timestamp": "2022-06-30 22:05:10",
+      "lastLogin": "2023-05-06 05:28:14"
+    },
+    {
+      "id": 11,
+      "businessId": 11,
+      "branchId": 11,
+      "role": "developer",
+      "fullName": "David Smith",
+      "email": "david.smith@example.com",
+      "timestamp": "2023-08-19 11:15:27",
+      "lastLogin": "2023-11-12 14:50:05"
+    },
+    {
+      "id": 12,
+      "businessId": 12,
+      "branchId": 12,
+      "role": "cashier",
+      "fullName": "Ella Davis",
+      "email": "ella.davis@example.com",
+      "timestamp": "2022-07-07 08:32:45",
+      "lastLogin": "2023-09-26 18:10:30"
+    },
+    {
+      "id": 13,
+      "businessId": 13,
+      "branchId": 13,
+      "role": "admin",
+      "fullName": "Matthew Johnson",
+      "email": "matthew.johnson@example.com",
+      "timestamp": "2023-02-03 19:25:10",
+      "lastLogin": "2023-11-22 21:42:55"
+    },
+    {
+      "id": 14,
+      "businessId": 14,
+      "branchId": 14,
+      "role": "manager",
+      "fullName": "Grace Wilson",
+      "email": "grace.wilson@example.com",
+      "timestamp": "2022-10-15 05:48:02",
+      "lastLogin": "2023-12-13 08:15:45"
+    },
+    {
+      "id": 15,
+      "businessId": 15,
+      "branchId": 15,
+      "role": "developer",
+      "fullName": "Benjamin Miller",
+      "email": "benjamin.miller@example.com",
+      "timestamp": "2023-05-20 14:02:30",
+      "lastLogin": "2023-10-01 17:35:20"
+    },
+    {
+      "id": 16,
+      "businessId": 16,
+      "branchId": 16,
+      "role": "cashier",
+      "fullName": "Chloe Taylor",
+      "email": "chloe.taylor@example.com",
+      "timestamp": "2022-11-12 20:18:40",
+      "lastLogin": "2023-07-08 22:52:02"
+    },
+    {
+      "id": 17,
+      "businessId": 17,
+      "branchId": 17,
+      "role": "admin",
+      "fullName": "William Anderson",
+      "email": "william.anderson@example.com",
+      "timestamp": "2023-01-05 09:40:15",
+      "lastLogin": "2023-09-15 13:25:30"
+    },
+    {
+      "id": 18,
+      "businessId": 18,
+      "branchId": 18,
+      "role": "manager",
+      "fullName": "Ava Garcia",
+      "email": "ava.garcia@example.com",
+      "timestamp": "2022-08-20 16:05:55",
+      "lastLogin": "2023-11-25 04:48:18"
+    },
+    {
+      "id": 19,
+      "businessId": 19,
+      "branchId": 19,
+      "role": "developer",
+      "fullName": "Daniel Brown",
+      "email": "daniel.brown@example.com",
+      "timestamp": "2023-03-27 11:32:25",
+      "lastLogin": "2023-08-03 18:10:55"
+    },
+    {
+      "id": 20,
+      "businessId": 20,
+      "branchId": 20,
+      "role": "cashier",
+      "fullName": "Emma Johnson",
+      "email": "emma.johnson@example.com",
+      "timestamp": "2022-12-02 07:55:42",
+      "lastLogin": "2023-10-28 22:35:30"
+    }
+  ],
+  "branch": [
+    {
+      "id": 1,
+      "businessId": 1,
+      "employeeCount": 5,
+      "location": {
+        "state": "Oromia",
+        "country": "Ethiopia",
+        "city": "Addis Ababa"
+      },
+      "name": "Branch 1",
+      "totalIncomeUSD": 5000.5,
+      "totalIncomeETB": 120000.75,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 2,
+      "businessId": 2,
+      "employeeCount": 2,
+      "location": {
+        "state": "Amhara",
+        "country": "Ethiopia",
+        "city": "Adama"
+      },
+      "name": "Branch 2",
+      "totalIncomeUSD": 7000.75,
+      "totalIncomeETB": 180000.25,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 3,
+      "businessId": 3,
+      "employeeCount": 7,
+      "location": {
+        "state": "Tigray",
+        "country": "Ethiopia",
+        "city": "Gondar"
+      },
+      "name": "Branch 3",
+      "totalIncomeUSD": 4500.25,
+      "totalIncomeETB": 100000.5,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 4,
+      "businessId": 4,
+      "employeeCount": 4,
+      "location": {
+        "state": "Afar",
+        "country": "Ethiopia",
+        "city": "Mekele"
+      },
+      "name": "Branch 4",
+      "totalIncomeUSD": 6200.8,
+      "totalIncomeETB": 150000.3,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 5,
+      "businessId": 5,
+      "employeeCount": 3,
+      "location": {
+        "state": "Oromia",
+        "country": "Ethiopia",
+        "city": "Addis Ababa"
+      },
+      "name": "Branch 5",
+      "totalIncomeUSD": 5500.6,
+      "totalIncomeETB": 130000.9,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 6,
+      "businessId": 5,
+      "employeeCount": 2,
+      "location": {
+        "state": "Somali",
+        "country": "Ethiopia",
+        "city": "Adama"
+      },
+      "name": "Branch 6",
+      "totalIncomeUSD": 4800.4,
+      "totalIncomeETB": 110000.4,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 7,
+      "businessId": 5,
+      "employeeCount": 1,
+      "location": {
+        "state": "Amhara",
+        "country": "Ethiopia",
+        "city": "Gondar"
+      },
+      "name": "Branch 7",
+      "totalIncomeUSD": 6700.9,
+      "totalIncomeETB": 160000.1,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 8,
+      "businessId": 6,
+      "employeeCount": 2,
+      "location": {
+        "state": "Tigray",
+        "country": "Ethiopia",
+        "city": "Mekele"
+      },
+      "name": "Branch 8",
+      "totalIncomeUSD": 5100.3,
+      "totalIncomeETB": 120000.7,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 9,
+      "businessId": 6,
+      "employeeCount": 1,
+      "location": {
+        "state": "Oromia",
+        "country": "Ethiopia",
+        "city": "Addis Ababa"
+      },
+      "name": "Branch 9",
+      "totalIncomeUSD": 6000.7,
+      "totalIncomeETB": 140000.5,
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 10,
+      "businessId": 6,
+      "employeeCount": 1,
+      "location": {
+        "state": "Amhara",
+        "country": "Ethiopia",
+        "city": "Adama"
+      },
+      "name": "Branch 10",
+      "totalIncomeUSD": 5800.5,
+      "totalIncomeETB": 135000.6,
+      "timestamp": "1/4/2023"
+    }
+  ],
+  "compliance": [
+    {
+      "id": 1,
+      "complianceBusinessInfo": {
+        "type": "registered",
+        "industry": "Technology",
+        "category": "Software Development",
+        "specialization": "Game Development",
+        "staffSize": "10-50",
+        "transaction": "100000-500000",
+        "legalBusinessName": "Example Tech Solutions Inc.",
+        "tinNumber": 1234567890,
+        "vatRegistered": true,
+        "vatNumber": "VAT123456",
+        "businessRegistrationNumber": "BIZ123456",
+        "Incorporation": "12/15/2005",
+        "tradeLicense": "TL123",
+        "tinCertificate": "TINCert123",
+        "memorandumOfAssociation": "MOA123",
+        "state": "Addis Ababa",
+        "kifleKetema": "Silicon Valley",
+        "kebele": "Tech District",
+        "houseNumber": "123",
+        "friendlyBusinessAddress": "Tech Street, Silicon Valley",
+        "businessPhone": "+1 (123) 456-7890",
+        "businessEmail": "info@exampletech.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_1.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Tech Street, Silicon Valley",
+        "dob": "5/12/1985",
+        "IDDocument": "https://www.example.com/id_document_1.jpg",
+        "nationalIDNumber": 123456789,
+        "idType": "Passport",
+        "state": "Addis Ababa"
+      },
+      "verified": true
+    },
+    {
+      "id": 2,
+      "complianceBusinessInfo": {
+        "type": "unregistered",
+        "industry": "Food Services",
+        "category": "Restaurant",
+        "specialization": "Food Truck Experience",
+        "staffSize": "5-20",
+        "transaction": "80000-200000",
+        "legalBusinessName": "Food Delight",
+        "tinNumber": 987654321,
+        "vatRegistered": true,
+        "vatNumber": "VAT987654",
+        "businessRegistrationNumber": "BIZ987654",
+        "Incorporation": "6/10/2010",
+        "tradeLicense": "TL987",
+        "tinCertificate": "TINCert987",
+        "memorandumOfAssociation": "MOA987",
+        "state": "Addis Ababa",
+        "kifleKetema": "Food District",
+        "kebele": "Main Street",
+        "houseNumber": "456",
+        "friendlyBusinessAddress": "Main Street, Food District",
+        "businessPhone": "+1 (987) 654-3210",
+        "businessEmail": "info@fooddelight.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_2.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Main Street, Food District",
+        "dob": "8/20/1992",
+        "IDDocument": "https://www.example.com/id_document_2.jpg",
+        "nationalIDNumber": 987654321,
+        "idType": "ID Card",
+        "state": "Addis Ababa"
+      },
+      "verified": true
+    },
+    {
+      "id": 3,
+      "complianceBusinessInfo": {
+        "type": "registered",
+        "industry": "Manufacturing",
+        "category": "Electronics",
+        "specialization": "Computer Hardware Production",
+        "staffSize": "15-100",
+        "transaction": "150000-800000",
+        "legalBusinessName": "ElectroTech Manufacturing Inc.",
+        "tinNumber": 456789012,
+        "vatRegistered": false,
+        "vatNumber": "",
+        "businessRegistrationNumber": "BIZ456789",
+        "Incorporation": "3/25/1970",
+        "tradeLicense": "TL456",
+        "tinCertificate": "TINCert456",
+        "memorandumOfAssociation": "MOA456",
+        "state": "Amhara",
+        "kifleKetema": "Industrial Zone",
+        "kebele": "Factory Lane",
+        "houseNumber": "789",
+        "friendlyBusinessAddress": "Factory Lane, Industrial Zone",
+        "businessPhone": "+1 (789) 012-3456",
+        "businessEmail": "info@electrotech.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_3.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Factory Lane, Industrial Zone",
+        "dob": "3/25/1970",
+        "IDDocument": "https://www.example.com/id_document_3.jpg",
+        "nationalIDNumber": 456789012,
+        "idType": "Driver's License",
+        "state": "Amhara"
+      },
+      "verified": false
+    },
+    {
+      "id": 4,
+      "complianceBusinessInfo": {
+        "type": "unregistered",
+        "industry": "Fashion",
+        "category": "Clothing Boutique",
+        "specialization": "Formal Attire Boutique",
+        "staffSize": "3-15",
+        "transaction": "30000-150000",
+        "legalBusinessName": "Chic Trends Boutique",
+        "tinNumber": 9876543210,
+        "vatRegistered": false,
+        "vatNumber": "",
+        "businessRegistrationNumber": "BIZ9876540",
+        "Incorporation": "6/15/1989",
+        "tradeLicense": "TL9876",
+        "tinCertificate": "TINCert9876",
+        "memorandumOfAssociation": "MOA9876",
+        "state": "Amhara",
+        "kifleKetema": "Shopping District",
+        "kebele": "Fashion Street",
+        "houseNumber": "987",
+        "friendlyBusinessAddress": "Fashion Street, Shopping District",
+        "businessPhone": "+1 (987) 654-3210",
+        "businessEmail": "info@chictrends.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_4.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Fashion Street, Shopping District",
+        "dob": "6/15/1989",
+        "IDDocument": "https://www.example.com/id_document_4.jpg",
+        "nationalIDNumber": 9876543210,
+        "idType": "Passport",
+        "state": "Amhara"
+      },
+      "verified": false
+    },
+    {
+      "id": 5,
+      "complianceBusinessInfo": {
+        "type": "registered",
+        "industry": "Healthcare",
+        "category": "Medical Clinic",
+        "specialization": "Pediatric Clinic",
+        "staffSize": "8-30",
+        "transaction": "90000-300000",
+        "legalBusinessName": "HealthyLife Medical Clinic Inc.",
+        "tinNumber": 1122334455,
+        "vatRegistered": true,
+        "vatNumber": "VAT112233",
+        "businessRegistrationNumber": "BIZ112233",
+        "Incorporation": "2/8/1973",
+        "tradeLicense": "TL1122",
+        "tinCertificate": "TINCert1122",
+        "memorandumOfAssociation": "MOA1122",
+        "state": "Addis Ababa",
+        "kifleKetema": "Medical District",
+        "kebele": "Healthcare Avenue",
+        "houseNumber": "456",
+        "friendlyBusinessAddress": "Healthcare Avenue, Medical District",
+        "businessPhone": "+1 (112) 233-4455",
+        "businessEmail": "info@healthylife.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_5.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Healthcare Avenue, Medical District",
+        "dob": "2/8/1973",
+        "IDDocument": "https://www.example.com/id_document_5.jpg",
+        "nationalIDNumber": 1122334455,
+        "idType": "National ID",
+        "state": "Addis Ababa"
+      },
+      "verified": true
+    },
+    {
+      "id": 6,
+      "complianceBusinessInfo": {
+        "type": "unregistered",
+        "industry": "Education",
+        "category": "Tutoring Services",
+        "specialization": "Test Preparation Tutoring",
+        "staffSize": "2-10",
+        "transaction": "20000-80000",
+        "legalBusinessName": "Smart Minds Tutoring",
+        "tinNumber": 9988776655,
+        "vatRegistered": false,
+        "vatNumber": "",
+        "businessRegistrationNumber": "BIZ998877",
+        "Incorporation": "11/10/1982",
+        "tradeLicense": "TL998877",
+        "tinCertificate": "TINCert998877",
+        "memorandumOfAssociation": "MOA998877",
+        "state": "Amhara",
+        "kifleKetema": "Learning Center",
+        "kebele": "Education Street",
+        "houseNumber": "789",
+        "friendlyBusinessAddress": "Education Street, Learning Center",
+        "businessPhone": "+1 (998) 877-6655",
+        "businessEmail": "info@smartminds.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_6.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Education Street, Learning Center",
+        "dob": "11/10/1982",
+        "IDDocument": "https://www.example.com/id_document_6.jpg",
+        "nationalIDNumber": 9988776655,
+        "idType": "ID Card",
+        "state": "Amhara"
+      },
+      "verified": false
+    },
+    {
+      "id": 7,
+      "complianceBusinessInfo": {
+        "type": "registered",
+        "industry": "Consulting",
+        "category": "Management Consulting",
+        "specialization": "Performance Improvement Consulting",
+        "staffSize": "12-60",
+        "transaction": "120000-600000",
+        "legalBusinessName": "Strategic Consulting Solutions Inc.",
+        "tinNumber": 1122334455,
+        "vatRegistered": false,
+        "vatNumber": "",
+        "businessRegistrationNumber": "BIZ1122334455",
+        "Incorporation": "7/22/1977",
+        "tradeLicense": "TL112233",
+        "tinCertificate": "TINCert112233",
+        "memorandumOfAssociation": "MOA112233",
+        "state": "Amhara",
+        "kifleKetema": "Business District",
+        "kebele": "Consultancy Lane",
+        "houseNumber": "101",
+        "friendlyBusinessAddress": "Consultancy Lane, Business District",
+        "businessPhone": "+1 (112) 233-4455",
+        "businessEmail": "info@strategicconsulting.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_7.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Consultancy Lane, Business District",
+        "dob": "7/22/1977",
+        "IDDocument": "https://www.example.com/id_document_7.jpg",
+        "nationalIDNumber": 1122334455,
+        "idType": "Passport",
+        "state": "Amhara"
+      },
+      "verified": false
+    },
+    {
+      "id": 8,
+      "complianceBusinessInfo": {
+        "type": "unregistered",
+        "industry": "Entertainment",
+        "category": "Event Planning",
+        "specialization": "Concert and Festival Planning",
+        "staffSize": "5-25",
+        "transaction": "60000-250000",
+        "legalBusinessName": "Vibrant Events",
+        "tinNumber": 9988776655,
+        "vatRegistered": true,
+        "vatNumber": "VAT998877",
+        "businessRegistrationNumber": "BIZ9988776655",
+        "Incorporation": "4/30/1995",
+        "tradeLicense": "TL998877",
+        "tinCertificate": "TINCert998877",
+        "memorandumOfAssociation": "MOA998877",
+        "state": "Amhara",
+        "kifleKetema": "Event Plaza",
+        "kebele": "Entertainment Street",
+        "houseNumber": "456",
+        "friendlyBusinessAddress": "Entertainment Street, Event Plaza",
+        "businessPhone": "+1 (998) 877-6655",
+        "businessEmail": "info@vibrantevents.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_8.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Entertainment Street, Event Plaza",
+        "dob": "4/30/1995",
+        "IDDocument": "https://www.example.com/id_document_8.jpg",
+        "nationalIDNumber": 9988776655,
+        "idType": "Driver's License",
+        "state": "Amhara"
+      },
+      "verified": true
+    },
+    {
+      "id": 9,
+      "complianceBusinessInfo": {
+        "type": "registered",
+        "industry": "Real Estate",
+        "category": "Property Management",
+        "specialization": "Industrial Property Management",
+        "staffSize": "20-100",
+        "transaction": "200000-1000000",
+        "legalBusinessName": "Real Property Management Corp.",
+        "tinNumber": 1234567890,
+        "vatRegistered": false,
+        "vatNumber": "",
+        "businessRegistrationNumber": "BIZ987654",
+        "Incorporation": "10/15/2007",
+        "tradeLicense": "TL987",
+        "tinCertificate": "TINCert987",
+        "memorandumOfAssociation": "MOA987",
+        "state": "Addis Ababa",
+        "kifleKetema": "Property Center",
+        "kebele": "Real Estate Boulevard",
+        "houseNumber": "789",
+        "friendlyBusinessAddress": "Real Estate Boulevard, Property Center",
+        "businessPhone": "+1 (789) 012-3456",
+        "businessEmail": "info@realproperty.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_9.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Real Estate Boulevard, Property Center",
+        "dob": "9/5/1980",
+        "IDDocument": "https://www.example.com/id_document_9.jpg",
+        "nationalIDNumber": 1234567890,
+        "idType": "Passport",
+        "state": "Addis Ababa"
+      },
+      "verified": false
+    },
+    {
+      "id": 10,
+      "complianceBusinessInfo": {
+        "type": "unregistered",
+        "industry": "Automotive",
+        "category": "Auto Repair Shop",
+        "specialization": "Engine Diagnostic and Repair",
+        "staffSize": "4-12",
+        "transaction": "40000-120000",
+        "legalBusinessName": "Speedy Auto Repairs",
+        "tinNumber": 1122334455,
+        "vatRegistered": true,
+        "vatNumber": "VAT112233",
+        "businessRegistrationNumber": "",
+        "Incorporation": "",
+        "tradeLicense": "",
+        "tinCertificate": "",
+        "memorandumOfAssociation": "",
+        "state": "Addis Ababa",
+        "kifleKetema": "Repair District",
+        "kebele": "Automotive Lane",
+        "houseNumber": "567",
+        "friendlyBusinessAddress": "Automotive Lane, Repair District",
+        "businessPhone": "+1 (567) 890-1234",
+        "businessEmail": "info@speedyauto.com",
+        "proofOfAddress": "https://www.example.com/proof_of_address_10.jpg"
+      },
+      "contactPersonInfo": {
+        "address": "Automotive Lane, Repair District",
+        "dob": "12/18/1987",
+        "IDDocument": "https://www.example.com/id_document_10.jpg",
+        "nationalIDNumber": 1122334455,
+        "idType": "Driver's License",
+        "state": "Addis Ababa"
+      },
+      "verified": true
+    }
+  ],
+  "business": [
+    {
+      "id": 1,
+      "merchantId": 2,
+      "businessName": "TechHub",
+      "businessEmail": "techhub@gmail.com",
+      "businessPhoneNo": 1122334455,
+      "businessMedia": {
+        "website": "techhub.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 2,
+      "merchantId": 4,
+      "businessName": "FashionTrends",
+      "businessEmail": "fashiontrends@gmail.com",
+      "businessPhoneNo": 2345678901,
+      "businessMedia": {
+        "website": "fashiontrends.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 3,
+      "merchantId": 6,
+      "businessName": "FoodMaster",
+      "businessEmail": "foodmaster@gmail.com",
+      "businessPhoneNo": 1234567890,
+      "businessMedia": {
+        "website": "foodmaster.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 4,
+      "merchantId": 8,
+      "businessName": "ConsultancyPro",
+      "businessEmail": "consultancypro@gmail.com",
+      "businessPhoneNo": 5678901234,
+      "businessMedia": {
+        "website": "consultancypro.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 5,
+      "merchantId": 70,
+      "businessName": "AutomotiveCare",
+      "businessEmail": "automotivecare@gmail.com",
+      "businessPhoneNo": 8901234567,
+      "businessMedia": {
+        "website": "automotivecare.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 6,
+      "merchantId": 70,
+      "businessName": "EducationHub",
+      "businessEmail": "educationhub@gmail.com",
+      "businessPhoneNo": 4567890123,
+      "businessMedia": {
+        "website": "educationhub.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 7,
+      "merchantId": 14,
+      "businessName": "AAAAAA",
+      "businessEmail": "aaaaaa@gmail.com",
+      "businessPhoneNo": 7890123456,
+      "businessMedia": {
+        "website": "aaaaaa.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 8,
+      "merchantId": 16,
+      "businessName": "asfsdaf",
+      "businessEmail": "asfsdaf@gmail.com",
+      "businessPhoneNo": 8901234567,
+      "businessMedia": {
+        "website": "asfsdaf.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 9,
+      "merchantId": 18,
+      "businessName": "RealEstateHub",
+      "businessEmail": "realestatehub@gmail.com",
+      "businessPhoneNo": 7890123456,
+      "businessMedia": {
+        "website": "realestatehub.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 10,
+      "merchantId": 20,
+      "businessName": "hulum trading",
+      "businessEmail": "hulumtrading@gmail.com",
+      "businessPhoneNo": 7890123456,
+      "businessMedia": {
+        "website": "hulumtrading.com",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      }
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "name": "dagmawi",
+      "PhoneNo": 251941270650
+    },
+    {
+      "id": 2,
+      "name": "Hannah",
+      "PhoneNo": 251912345678
+    },
+    {
+      "id": 3,
+      "name": "Elias",
+      "PhoneNo": 251923456789
+    },
+    {
+      "id": 4,
+      "name": "Aisha",
+      "PhoneNo": 251934567890
+    },
+    {
+      "id": 5,
+      "name": "Yonas",
+      "PhoneNo": 251945678901
+    },
+    {
+      "id": 6,
+      "name": "Sara",
+      "PhoneNo": 251956789012
+    },
+    {
+      "id": 7,
+      "name": "Solomon",
+      "PhoneNo": 251967890123
+    },
+    {
+      "id": 8,
+      "name": "Lily",
+      "PhoneNo": 251978901234
+    },
+    {
+      "id": 9,
+      "name": "Daniel",
+      "PhoneNo": 251989012345
+    },
+    {
+      "id": 10,
+      "name": "Sophia",
+      "PhoneNo": 251900123456
+    }
+  ],
+  "transaction": [
+    {
+      "id": 1,
+      "customerId": 2,
+      "merchantId": 2,
+      "accountId": 3,
+      "businessId": 3,
+      "amount": 342.5,
+      "currency": "USD",
+      "status": "pending",
+      "reason": "Lorem ipsum dolor",
+      "paymentMethod": "telebirr",
+      "timestamp": "1/4/2023"
+    },
+    {
+      "id": 2,
+      "customerId": 4,
+      "merchantId": 4,
+      "accountId": 5,
+      "businessId": 4,
+      "amount": 120.75,
+      "currency": "ETB",
+      "status": "completed",
+      "reason": "Lorem ipsum dolor sit",
+      "paymentMethod": "paypal",
+      "timestamp": "2/15/2023"
+    },
+    {
+      "id": 3,
+      "customerId": 6,
+      "merchantId": 6,
+      "accountId": 7,
+      "businessId": 5,
+      "amount": 500,
+      "currency": "USD",
+      "status": "failed",
+      "reason": "Lorem ipsum dolor sit amet",
+      "paymentMethod": "cbebirr",
+      "timestamp": "3/20/2023"
+    },
+    {
+      "id": 4,
+      "customerId": 8,
+      "merchantId": 8,
+      "accountId": 9,
+      "businessId": 6,
+      "amount": 75.25,
+      "currency": "ETB",
+      "status": "inprogress",
+      "reason": "Lorem ipsum",
+      "paymentMethod": "m-pesa",
+      "timestamp": "4/5/2023"
+    },
+    {
+      "id": 5,
+      "customerId": 10,
+      "merchantId": 10,
+      "accountId": 11,
+      "businessId": 7,
+      "amount": 200,
+      "currency": "USD",
+      "status": "completed",
+      "reason": "Lorem ipsum dolor sit amet",
+      "paymentMethod": "visa",
+      "timestamp": "5/10/2023"
+    },
+    {
+      "id": 6,
+      "customerId": 12,
+      "merchantId": 12,
+      "accountId": 13,
+      "businessId": 8,
+      "amount": 45.5,
+      "currency": "ETB",
+      "status": "inprogress",
+      "reason": "Lorem ipsum dolor",
+      "paymentMethod": "telebirr",
+      "timestamp": "6/18/2023"
+    },
+    {
+      "id": 7,
+      "customerId": 14,
+      "merchantId": 14,
+      "accountId": 15,
+      "businessId": 9,
+      "amount": 300,
+      "currency": "USD",
+      "status": "failed",
+      "reason": "Lorem ipsum",
+      "paymentMethod": "paypal",
+      "timestamp": "7/25/2023"
+    },
+    {
+      "id": 8,
+      "customerId": 16,
+      "merchantId": 16,
+      "accountId": 17,
+      "businessId": 10,
+      "amount": 80,
+      "currency": "ETB",
+      "status": "pending",
+      "reason": "Lorem ipsum dolor sit",
+      "paymentMethod": "cbebirr",
+      "timestamp": "8/1/2023"
+    },
+    {
+      "id": 9,
+      "customerId": 18,
+      "merchantId": 18,
+      "accountId": 19,
+      "businessId": 11,
+      "amount": 150.25,
+      "currency": "USD",
+      "status": "completed",
+      "reason": "Lorem ipsum",
+      "paymentMethod": "m-pesa",
+      "timestamp": "9/12/2023"
+    },
+    {
+      "id": 10,
+      "customerId": 20,
+      "merchantId": 20,
+      "accountId": 21,
+      "businessId": 12,
+      "amount": 55.75,
+      "currency": "ETB",
+      "status": "inprogress",
+      "reason": "Lorem ipsum dolor sit amet",
+      "paymentMethod": "visa",
+      "timestamp": "10/5/2023"
+    },
+    {
+      "id": 11,
+      "customerId": 2,
+      "merchantId": 2,
+      "accountId": 3,
+      "businessId": 13,
+      "amount": 120,
+      "currency": "USD",
+      "status": "completed",
+      "reason": "Lorem ipsum dolor",
+      "paymentMethod": "telebirr",
+      "timestamp": "1/10/2023"
+    },
+    {
+      "id": 12,
+      "customerId": 4,
+      "merchantId": 4,
+      "accountId": 5,
+      "businessId": 14,
+      "amount": 90.25,
+      "currency": "ETB",
+      "status": "inprogress",
+      "reason": "Lorem ipsum dolor sit",
+      "paymentMethod": "paypal",
+      "timestamp": "2/22/2023"
+    },
+    {
+      "id": 13,
+      "customerId": 6,
+      "merchantId": 6,
+      "accountId": 7,
+      "businessId": 15,
+      "amount": 300,
+      "currency": "USD",
+      "status": "failed",
+      "reason": "Lorem ipsum dolor sit amet",
+      "paymentMethod": "cbebirr",
+      "timestamp": "3/15/2023"
+    },
+    {
+      "id": 14,
+      "customerId": 8,
+      "merchantId": 8,
+      "accountId": 9,
+      "businessId": 70,
+      "amount": 50.75,
+      "currency": "ETB",
+      "status": "completed",
+      "reason": "Lorem ipsum",
+      "paymentMethod": "m-pesa",
+      "timestamp": "4/8/2023"
+    },
+    {
+      "id": 15,
+      "customerId": 10,
+      "merchantId": 10,
+      "accountId": 11,
+      "businessId": 70,
+      "amount": 180,
+      "currency": "USD",
+      "status": "inprogress",
+      "reason": "Lorem ipsum dolor sit amet",
+      "paymentMethod": "visa",
+      "timestamp": "5/18/2023"
+    },
+    {
+      "id": 16,
+      "customerId": 12,
+      "merchantId": 12,
+      "accountId": 13,
+      "businessId": 70,
+      "amount": 35.5,
+      "currency": "ETB",
+      "status": "failed",
+      "reason": "Lorem ipsum dolor",
+      "paymentMethod": "telebirr",
+      "timestamp": "6/25/2023"
+    },
+    {
+      "id": 17,
+      "customerId": 14,
+      "merchantId": 14,
+      "accountId": 15,
+      "businessId": 70,
+      "amount": 250,
+      "currency": "USD",
+      "status": "completed",
+      "reason": "Lorem ipsum",
+      "paymentMethod": "paypal",
+      "timestamp": "7/10/2023"
+    },
+    {
+      "id": 18,
+      "customerId": 16,
+      "merchantId": 16,
+      "accountId": 17,
+      "businessId": 70,
+      "amount": 60,
+      "currency": "ETB",
+      "status": "pending",
+      "reason": "Lorem ipsum dolor sit",
+      "paymentMethod": "cbebirr",
+      "timestamp": "8/5/2023"
+    },
+    {
+      "id": 19,
+      "customerId": 18,
+      "merchantId": 18,
+      "accountId": 19,
+      "businessId": 70,
+      "amount": 130.75,
+      "currency": "USD",
+      "status": "inprogress",
+      "reason": "Lorem ipsum",
+      "paymentMethod": "m-pesa",
+      "timestamp": "9/20/2023"
+    },
+    {
+      "id": 20,
+      "customerId": 20,
+      "merchantId": 20,
+      "accountId": 21,
+      "businessId": 70,
+      "amount": 45,
+      "currency": "ETB",
+      "status": "completed",
+      "reason": "Lorem ipsum dolor sit amet",
+      "paymentMethod": "visa",
+      "timestamp": "10/12/2023"
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "merchantId": 70,
+      "branchId": 5,
+      "accountType": "cbebirr",
+      "account": "1000265875963",
+      "totalIncomeUSD": 1500.25,
+      "totalIncomeETB": 45000.75,
+      "timestamp": "2023-05-12T08:30:45Z"
+    },
+    {
+      "id": 2,
+      "merchantId": 70,
+      "branchId": 5,
+      "accountType": "telebirr",
+      "account": "985769528",
+      "totalIncomeUSD": 2200.75,
+      "totalIncomeETB": 66000.0,
+      "timestamp": "2023-08-18T15:20:30Z"
+    },
+    {
+      "id": 3,
+      "merchantId": 70,
+      "branchId": 6,
+      "accountType": "m-pesa",
+      "account": "788554856",
+      "totalIncomeUSD": 1800.5,
+      "totalIncomeETB": 54000.25,
+      "timestamp": "2023-04-02T12:10:00Z"
+    },
+    {
+      "id": 4,
+      "merchantId": 70,
+      "branchId": 6,
+      "accountType": "visa",
+      "account": "4111111111111111",
+      "totalIncomeUSD": 3000.0,
+      "totalIncomeETB": 90000.5,
+      "timestamp": "2023-10-25T18:45:15Z"
+    },
+    {
+      "id": 5,
+      "merchantId": 70,
+      "branchId": 5,
+      "accountType": "paypal",
+      "account": "fake_email@example.com",
+      "totalIncomeUSD": 2500.75,
+      "totalIncomeETB": 75000.25,
+      "timestamp": "2023-06-08T09:55:20Z"
+    }
+  ],
+  "merchant": [
+    {
+      "id": 1,
+      "userInfo": {
+        "FirstName": "dagm",
+        "MiddleName": "muluwork",
+        "LastName": "ambaye",
+        "email": "dagm@gmail.com",
+        "PhoneNo": 251941270650
+      },
+      "businessId": 1
+    },
+    {
+      "id": 2,
+      "userInfo": {
+        "FirstName": "Hannah",
+        "MiddleName": "Elias",
+        "LastName": "Girma",
+        "email": "hannah@gmail.com",
+        "PhoneNo": 251912345678
+      },
+      "businessId": 2
+    },
+    {
+      "id": 3,
+      "userInfo": {
+        "FirstName": "Elias",
+        "MiddleName": "Yonas",
+        "LastName": "Kebede",
+        "email": "elias@gmail.com",
+        "PhoneNo": 251923456789
+      },
+      "businessId": 3
+    },
+    {
+      "id": 4,
+      "userInfo": {
+        "FirstName": "Aisha",
+        "MiddleName": "Solomon",
+        "LastName": "Tekle",
+        "email": "aisha@gmail.com",
+        "PhoneNo": 251934567890
+      },
+      "businessId": 4
+    },
+    {
+      "id": 5,
+      "userInfo": {
+        "FirstName": "Yonas",
+        "MiddleName": "Sara",
+        "LastName": "Haile",
+        "email": "yonas@gmail.com",
+        "PhoneNo": 251945678901
+      },
+      "businessId": 5
+    },
+    {
+      "id": 6,
+      "userInfo": {
+        "FirstName": "Sara",
+        "MiddleName": "Solomon",
+        "LastName": "Berhanu",
+        "email": "sara@gmail.com",
+        "PhoneNo": 251956789012
+      },
+      "businessId": 6
+    },
+    {
+      "id": 7,
+      "userInfo": {
+        "FirstName": "Solomon",
+        "MiddleName": "Lily",
+        "LastName": "Alemu",
+        "email": "solomon@gmail.com",
+        "PhoneNo": 251967890123
+      },
+      "businessId": 7
+    },
+    {
+      "id": 8,
+      "userInfo": {
+        "FirstName": "Lily",
+        "MiddleName": "Daniel",
+        "LastName": "Alemu",
+        "email": "lily@gmail.com",
+        "PhoneNo": 251978901234
+      },
+      "businessId": 8
+    },
+    {
+      "id": 9,
+      "userInfo": {
+        "FirstName": "Daniel",
+        "MiddleName": "Sophia",
+        "LastName": "Girma",
+        "email": "daniel@gmail.com",
+        "PhoneNo": 251989012345
+      },
+      "businessId": 9
+    },
+    {
+      "id": 10,
+      "userInfo": {
+        "FirstName": "Sophia",
+        "MiddleName": "Daniel",
+        "LastName": "Berhanu",
+        "email": "sophia@gmail.com",
+        "PhoneNo": 251900123456
+      },
+      "businessId": 10
+    },
+    {
+      "id": 11,
+      "userInfo": {
+        "FirstName": "Dagmawi",
+        "MiddleName": "",
+        "LastName": "Muluwork",
+        "email": "dagmawimuluwork@gmail.com",
+        "PhoneNo": null,
+        "password": "123"
+      },
+      "businessId": 11
+    },
+    {
+      "id": 15,
+      "userInfo": {
+        "FirstName": "Dagmawi",
+        "MiddleName": "",
+        "LastName": "Muluwork",
+        "email": "muluworkdagmawi1@gmail.com",
+        "PhoneNo": null,
+        "password": "123"
+      },
+      "businessId": 12
+    },
+    {
+      "id": 14,
+      "userInfo": {
+        "FirstName": "Dagmawi",
+        "MiddleName": "",
+        "LastName": "Muluwork",
+        "email": "muluworkdagmawi1@gmail.com",
+        "PhoneNo": null,
+        "password": "dksjfkajksdfj"
+      },
+      "businessId": 13
+    },
+    {
+      "id": 16,
+      "userInfo": {
+        "FirstName": "wjkhf",
+        "MiddleName": "",
+        "LastName": "ksdfsd",
+        "email": "jdhsjfah@gmail.com",
+        "PhoneNo": null,
+        "password": "123456"
+      },
+      "businessId": 14
+    },
+    {
+      "id": 36,
+      "userInfo": {
+        "FirstName": "Dagmawi",
+        "MiddleName": "Muluwork",
+        "LastName": "Ambaye",
+        "email": "muluworkdagmawi1@gmail.com",
+        "PhoneNo": null,
+        "password": "123456"
+      },
+      "businessId": 15
+    },
+    {
+      "id": 70,
+      "userInfo": {
+        "FirstName": "Abebe",
+        "MiddleName": "Girma",
+        "LastName": "",
+        "email": "AbebeGirma@gmail.com",
+        "PhoneNo": null,
+        "password": "12345678"
+      },
+      "businessId": 16
+    },
+    {
+      "id": 75,
+      "userInfo": {
+        "FirstName": "Dagmawi",
+        "MiddleName": "Muluwork",
+        "LastName": "",
+        "email": "dagmawimuluwork@gmail.com",
+        "PhoneNo": null,
+        "password": "1234567"
+      },
+      "businessInfo": {
+        "businessName": "Test1-123",
+        "businessEmail": "",
+        "businessPhoneNo": null
+      },
+      "businessMedia": {
+        "website": "",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      },
+      "country": "Ethiopia"
+    },
+    {
+      "id": 76,
+      "userInfo": {
+        "FirstName": "dagmawi",
+        "MiddleName": "muluwork",
+        "LastName": "",
+        "email": "dagmawimuluwork@gmail.com",
+        "PhoneNo": null,
+        "password": "1234567"
+      },
+      "businessInfo": {
+        "businessName": "AAAAAA",
+        "businessEmail": "",
+        "businessPhoneNo": null
+      },
+      "businessMedia": {
+        "website": "",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      },
+      "country": "Ethiopia"
+    }
+  ],
+  "revenues": [
+    {
+      "month": "Jan",
+      "revenue": 2000
+    },
+    {
+      "month": "Feb",
+      "revenue": 1800
+    },
+    {
+      "month": "Mar",
+      "revenue": 2200
+    },
+    {
+      "month": "Apr",
+      "revenue": 2500
+    },
+    {
+      "month": "May",
+      "revenue": 2300
+    },
+    {
+      "month": "Jun",
+      "revenue": 3200
+    },
+    {
+      "month": "Jul",
+      "revenue": 3500
+    },
+    {
+      "month": "Aug",
+      "revenue": 3700
+    },
+    {
+      "month": "Sep",
+      "revenue": 2500
+    },
+    {
+      "month": "Oct",
+      "revenue": 2800
+    },
+    {
+      "month": "Nov",
+      "revenue": 3000
+    },
+    {
+      "month": "Dec",
+      "revenue": 4800
+    }
+  ],
+  "total": {
+    "USD": 2472.75,
+    "ETB": 658.75
+  }
+}
