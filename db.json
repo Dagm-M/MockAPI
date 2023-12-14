@@ -719,6 +719,7 @@
     {
       "id": 1,
       "merchantId": 2,
+      "complianceId": 2,
       "businessName": "TechHub",
       "businessEmail": "techhub@gmail.com",
       "businessPhoneNo": 1122334455,
@@ -733,6 +734,7 @@
     {
       "id": 2,
       "merchantId": 4,
+      "complianceId": 4,
       "businessName": "FashionTrends",
       "businessEmail": "fashiontrends@gmail.com",
       "businessPhoneNo": 2345678901,
@@ -747,6 +749,7 @@
     {
       "id": 3,
       "merchantId": 6,
+      "complianceId": 5,
       "businessName": "FoodMaster",
       "businessEmail": "foodmaster@gmail.com",
       "businessPhoneNo": 1234567890,
@@ -761,6 +764,7 @@
     {
       "id": 4,
       "merchantId": 8,
+      "complianceId": 6,
       "businessName": "ConsultancyPro",
       "businessEmail": "consultancypro@gmail.com",
       "businessPhoneNo": 5678901234,
@@ -776,6 +780,7 @@
       "id": 5,
       "merchantId": 70,
       "businessName": "AutomotiveCare",
+      "complianceId": 1,
       "businessEmail": "automotivecare@gmail.com",
       "businessPhoneNo": 8901234567,
       "businessMedia": {
@@ -790,6 +795,7 @@
       "id": 6,
       "merchantId": 70,
       "businessName": "EducationHub",
+      "complianceId": 3,
       "businessEmail": "educationhub@gmail.com",
       "businessPhoneNo": 4567890123,
       "businessMedia": {
@@ -803,6 +809,7 @@
     {
       "id": 7,
       "merchantId": 14,
+      "complianceId": 7,
       "businessName": "AAAAAA",
       "businessEmail": "aaaaaa@gmail.com",
       "businessPhoneNo": 7890123456,
@@ -817,6 +824,7 @@
     {
       "id": 8,
       "merchantId": 16,
+      "complianceId": 8,
       "businessName": "asfsdaf",
       "businessEmail": "asfsdaf@gmail.com",
       "businessPhoneNo": 8901234567,
@@ -831,6 +839,7 @@
     {
       "id": 9,
       "merchantId": 18,
+      "complianceId": 9,
       "businessName": "RealEstateHub",
       "businessEmail": "realestatehub@gmail.com",
       "businessPhoneNo": 7890123456,
@@ -845,6 +854,7 @@
     {
       "id": 10,
       "merchantId": 20,
+      "complianceId": 10,
       "businessName": "hulum trading",
       "businessEmail": "hulumtrading@gmail.com",
       "businessPhoneNo": 7890123456,
