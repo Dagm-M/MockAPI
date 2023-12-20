@@ -871,52 +871,82 @@
     {
       "id": 1,
       "name": "dagmawi",
-      "PhoneNo": 251941270650
+      "phoneNo": 251941270650,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 2,
       "name": "Hannah",
-      "PhoneNo": 251912345678
+      "phoneNo": 251912345678,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 3,
       "name": "Elias",
-      "PhoneNo": 251923456789
+      "phoneNo": 251923456789,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 4,
       "name": "Aisha",
-      "PhoneNo": 251934567890
+      "phoneNo": 251934567890,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 5,
       "name": "Yonas",
-      "PhoneNo": 251945678901
+      "phoneNo": 251945678901,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 6,
       "name": "Sara",
-      "PhoneNo": 251956789012
+      "phoneNo": 251956789012,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 7,
       "name": "Solomon",
-      "PhoneNo": 251967890123
+      "phoneNo": 251967890123,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 8,
       "name": "Lily",
-      "PhoneNo": 251978901234
+      "phoneNo": 251978901234,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 9,
       "name": "Daniel",
-      "PhoneNo": 251989012345
+      "phoneNo": 251989012345,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     },
     {
       "id": 10,
       "name": "Sophia",
-      "PhoneNo": 251900123456
+      "phoneNo": 251900123456,
+      "totalIncomeETB": 200,
+      "totalIncomeUSD": 300,
+      "timestamp": "2022-06-30 22:05:10"
     }
   ],
   "transaction": [
