@@ -1,5 +1,5 @@
 {
-  "User": [
+  "user": [
     {
       "id": 1,
       "firstName": "Zeke",
@@ -8,7 +8,7 @@
       "phone": "0941270650",
       "email": "dagm@gmail.com",
       "password": "",
-      "role": "admin"
+      "role": "owner"
     },
     {
       "id": 2,
@@ -35,6 +35,16 @@
     {
       "id": 1,
       "userId": 1
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 3
     }
   ],
   "employee": [
@@ -490,6 +500,47 @@
       "totalIncomeUSD": 2500.75,
       "totalIncomeETB": 75000.25,
       "timestamp": "2023-06-08T09:55:20Z"
+    }
+  ],
+  "links": [
+    {
+      "id": 1,
+      "merchantId": 1,
+      "businessId": 1,
+      "name": "link 1",
+      "status": "active",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et accusamus fugit iste quod autem tempore dolores earum animi repudiandae ut, odio mollitia asperiores dolorem fugiat aut officiis doloremque unde aliquid?",
+      "amount": 200,
+      "currency": "etb",
+      "link": "tooooo long to read what will happpen",
+      "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "timeStamp": "2023-06-08T09:55:20Z"
+    },
+    {
+      "id": 2,
+      "merchantId": 1,
+      "businessId": 2,
+      "name": "link 2",
+      "status": "active",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et accusamus fugit iste quod autem tempore dolores earum animi repudiandae ut, odio mollitia asperiores dolorem fugiat aut officiis doloremque unde aliquid?",
+      "amount": 50,
+      "currency": "usd",
+      "link": "some generated link",
+      "image": "",
+      "timeStamp": "2023-06-08T09:55:20Z"
+    },
+    {
+      "id": 3,
+      "merchantId": 1,
+      "businessId": 2,
+      "name": "link 3",
+      "status": "disabled",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et accusamus fugit iste quod autem tempore dolores earum animi repudiandae ut, odio mollitia asperiores dolorem fugiat aut officiis doloremque unde aliquid?",
+      "amount": 30,
+      "currency": "usd",
+      "link": "some generated link",
+      "image": "https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg",
+      "timeStamp": "2023-06-08T09:55:20Z"
     }
   ]
 }
