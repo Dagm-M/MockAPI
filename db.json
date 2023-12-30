@@ -234,6 +234,8 @@
   "customer": [
     {
       "id": 1,
+      "merchantId": 1,
+      "businessId": 1,
       "phoneNo": 251941270650,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -241,6 +243,8 @@
     },
     {
       "id": 2,
+      "merchantId": 1,
+      "businessId": 2,
       "phoneNo": 251912345678,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -248,6 +252,8 @@
     },
     {
       "id": 3,
+      "merchantId": 1,
+      "businessId": 1,
       "phoneNo": 251923456789,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -255,6 +261,8 @@
     },
     {
       "id": 4,
+      "merchantId": 1,
+      "businessId": 2,
       "phoneNo": 251934567890,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -262,6 +270,8 @@
     },
     {
       "id": 5,
+      "merchantId": 1,
+      "businessId": 1,
       "phoneNo": 251945678901,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -269,6 +279,8 @@
     },
     {
       "id": 6,
+      "merchantId": 1,
+      "businessId": 2,
       "phoneNo": 251956789012,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -276,6 +288,8 @@
     },
     {
       "id": 7,
+      "merchantId": 1,
+      "businessId": 1,
       "phoneNo": 251967890123,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -283,6 +297,8 @@
     },
     {
       "id": 8,
+      "merchantId": 1,
+      "businessId": 2,
       "phoneNo": 251978901234,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -290,6 +306,8 @@
     },
     {
       "id": 9,
+      "merchantId": 1,
+      "businessId": 1,
       "phoneNo": 251989012345,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
@@ -297,6 +315,8 @@
     },
     {
       "id": 10,
+      "merchantId": 1,
+      "businessId": 2,
       "phoneNo": 251900123456,
       "totalIncomeETB": 200,
       "totalIncomeUSD": 300,
