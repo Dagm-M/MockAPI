@@ -73,6 +73,7 @@
       "businessName": "TechHub",
       "businessEmail": "techhub@gmail.com",
       "businessPhoneNo": 1122334455,
+      "logo": "https://png.pngitem.com/pimgs/s/195-1951323_your-logo-here-png-company-logo-your-logo.png",
       "businessMedia": {
         "website": "techhub.com",
         "twitter": "",
@@ -88,6 +89,7 @@
       "businessName": "FashionTrends",
       "businessEmail": "fashiontrends@gmail.com",
       "businessPhoneNo": 2345678901,
+      "logo": "https://www.shutterstock.com/image-vector/your-logo-elements-260nw-1262079484.jpg",
       "businessMedia": {
         "website": "fashiontrends.com",
         "twitter": "",
@@ -533,7 +535,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et accusamus fugit iste quod autem tempore dolores earum animi repudiandae ut, odio mollitia asperiores dolorem fugiat aut officiis doloremque unde aliquid?",
       "amount": 200,
       "currency": "etb",
-      "link": "tooooo long to read what will happpen",
+      "link": "https://payment-system-sand.vercel.app/checkout/1",
       "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "timeStamp": "2023-06-08T09:55:20Z"
     },
@@ -547,7 +549,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et accusamus fugit iste quod autem tempore dolores earum animi repudiandae ut, odio mollitia asperiores dolorem fugiat aut officiis doloremque unde aliquid?",
       "amount": 50,
       "currency": "usd",
-      "link": "some generated link",
+      "link": "https://payment-system-sand.vercel.app/checkout/2",
       "image": "",
       "timeStamp": "2023-06-08T09:55:20Z"
     },
@@ -561,7 +563,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et accusamus fugit iste quod autem tempore dolores earum animi repudiandae ut, odio mollitia asperiores dolorem fugiat aut officiis doloremque unde aliquid?",
       "amount": 30,
       "currency": "usd",
-      "link": "some generated link",
+      "link": "https://payment-system-sand.vercel.app/checkout/3",
       "image": "https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg",
       "timeStamp": "2023-06-08T09:55:20Z"
     }
