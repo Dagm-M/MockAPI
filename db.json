@@ -1,11 +1,409 @@
 {
-  "user": [],
-  "business": [],
-  "branch": [],
+  "user": [
+    {
+      "firstName": "Eren",
+      "middleName": "Jaeger",
+      "lastName": "",
+      "phone": "0941270650",
+      "email": "eren@gmail.com",
+      "password": "Eren@123",
+      "role": "owner",
+      "merchantId": null,
+      "businessId": null,
+      "branchId": null,
+      "timestamp": 1704959504216,
+      "lastLogin": 1704959504216,
+      "id": 1
+    },
+    {
+      "firstName": "Mikasa",
+      "middleName": "Ackerman",
+      "lastName": "",
+      "phone": null,
+      "email": "mikasa@gmail.com",
+      "password": "",
+      "role": "coowner",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": null,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 2
+    },
+    {
+      "firstName": "Armin",
+      "middleName": "Arlert",
+      "lastName": "",
+      "phone": null,
+      "email": "armin@gmail.com",
+      "password": "",
+      "role": "admin",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": null,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 3
+    },
+    {
+      "firstName": "Levi",
+      "middleName": "Ackerman",
+      "lastName": "",
+      "phone": null,
+      "email": "levi@gmail.com",
+      "password": "",
+      "role": "admin",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": null,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 4
+    },
+    {
+      "firstName": "Krista",
+      "middleName": "Lenz",
+      "lastName": "",
+      "phone": null,
+      "email": "krista@gmail.com",
+      "password": "",
+      "role": "manager",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 1,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 5
+    },
+    {
+      "firstName": "Hange",
+      "middleName": "Zoë",
+      "lastName": "",
+      "phone": null,
+      "email": "hange@gmail.com",
+      "password": "",
+      "role": "developer",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 1,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 6
+    },
+    {
+      "firstName": "Sasha",
+      "middleName": "Blouse",
+      "lastName": "",
+      "phone": null,
+      "email": "sasha@gmail.com",
+      "password": "",
+      "role": "cashier",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 4,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 7
+    },
+    {
+      "firstName": "Jean",
+      "middleName": "Kirstein",
+      "lastName": "",
+      "phone": null,
+      "email": "jean@gmail.com",
+      "password": "",
+      "role": "cashier",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 2,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 8
+    },
+    {
+      "firstName": "Connie",
+      "middleName": "Springer",
+      "lastName": "",
+      "phone": null,
+      "email": "connie@gmail.com",
+      "password": "",
+      "role": "manager",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 2,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 9
+    },
+    {
+      "firstName": "Annie",
+      "middleName": "Leonhart",
+      "lastName": "",
+      "phone": null,
+      "email": "yemir@gmail.com",
+      "password": "",
+      "role": "developer",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 4,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 10
+    },
+    {
+      "firstName": "Rod",
+      "middleName": "Reiss",
+      "lastName": "",
+      "phone": null,
+      "email": "rod@gmail.com",
+      "password": "",
+      "role": "cashier",
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 3,
+      "timestamp": "2023-10-20 08:45:30",
+      "lastLogin": "2023-10-20 08:45:30",
+      "id": 11
+    }
+  ],
+  "business": [
+    {
+      "merchantId": 1,
+      "complianceId": null,
+      "businessName": "maria shop",
+      "businessEmail": "",
+      "businessPhoneNo": null,
+      "logo": "",
+      "businessMedia": {
+        "website": "",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      },
+      "id": 1
+    },
+    {
+      "merchantId": 1,
+      "complianceId": null,
+      "businessName": "Rose shop",
+      "businessEmail": "",
+      "businessPhoneNo": null,
+      "logo": "",
+      "businessMedia": {
+        "website": "",
+        "twitter": "",
+        "linkedIn": "",
+        "facebook": "",
+        "instagram": ""
+      },
+      "id": 2
+    }
+  ],
+  "branch": [
+    {
+      "businessId": 2,
+      "employeeCount": 2,
+      "location": {
+        "state": "Tigray",
+        "country": "Ethiopia",
+        "city": "Mekelle"
+      },
+      "name": "Utopia",
+      "totalIncomeUSD": 0,
+      "totalIncomeETB": 0,
+      "timestamp": "2023-06-08T09:55:20Z",
+      "id": 1
+    },
+    {
+      "businessId": 2,
+      "employeeCount": 2,
+      "location": {
+        "state": "Benishangul-Gumuz",
+        "country": "Ethiopia",
+        "city": "Kumruk"
+      },
+      "name": "Karanes",
+      "totalIncomeUSD": 0,
+      "totalIncomeETB": 0,
+      "timestamp": "2023-06-08T09:55:20Z",
+      "id": 2
+    },
+    {
+      "businessId": 2,
+      "employeeCount": 1,
+      "location": {
+        "state": "Gambela",
+        "country": "Ethiopia",
+        "city": "Abobo"
+      },
+      "name": "Trost",
+      "totalIncomeUSD": 0,
+      "totalIncomeETB": 0,
+      "timestamp": "2023-06-08T09:55:20Z",
+      "id": 3
+    },
+    {
+      "businessId": 2,
+      "employeeCount": 2,
+      "location": {
+        "state": "Afar",
+        "country": "Ethiopia",
+        "city": "Asayita"
+      },
+      "name": "Krolva",
+      "totalIncomeUSD": 0,
+      "totalIncomeETB": 0,
+      "timestamp": "2023-06-08T09:55:20Z",
+      "id": 4
+    },
+    {
+      "businessId": 2,
+      "employeeCount": 0,
+      "location": {
+        "state": "",
+        "country": "",
+        "city": ""
+      },
+      "name": "Ragako",
+      "totalIncomeUSD": 0,
+      "totalIncomeETB": 0,
+      "timestamp": "2023-06-08T09:55:20Z",
+      "id": 5
+    },
+    {
+      "businessId": 2,
+      "employeeCount": 0,
+      "location": {
+        "state": "",
+        "country": "",
+        "city": ""
+      },
+      "name": "Dauper",
+      "totalIncomeUSD": 0,
+      "totalIncomeETB": 0,
+      "timestamp": "2023-06-08T09:55:20Z",
+      "id": 6
+    }
+  ],
   "compliance": [],
   "customer": [],
   "transaction": [],
   "account": [],
-  "links": [],
-  "paymentOptions": []
+  "links": [
+    {
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 3,
+      "name": "ODM gear",
+      "status": "active",
+      "description": "odm gear to navigate",
+      "amount": "2000",
+      "currency": "usd",
+      "link": "",
+      "image": "",
+      "timestamp": "2023-06-08T09:55:20Z",
+      "id": 1
+    },
+    {
+      "merchantId": 1,
+      "businessId": 2,
+      "branchId": 1,
+      "name": "meat",
+      "status": "active",
+      "description": "sheep meat",
+      "amount": "600",
+      "currency": "etb",
+      "link": "",
+      "image": "",
+      "timestamp": "2023-06-08T09:55:20Z",
+      "id": 2
+    }
+  ],
+  "paymentOptions": [
+    {
+      "businessId": 1,
+      "options": [
+        {
+          "name": "All",
+          "uid": "all",
+          "image": "",
+          "isOn": true
+        },
+        {
+          "name": "Telebirr",
+          "uid": "telebirr",
+          "image": "/paymentOptions/telebirr.png",
+          "isOn": true
+        },
+        {
+          "name": "CBEbirr",
+          "uid": "cbebirr",
+          "image": "/paymentOptions/cbebirr.png",
+          "isOn": true
+        },
+        {
+          "name": "M-Pesa",
+          "uid": "m-pesa",
+          "image": "/paymentOptions/m-pesa.png",
+          "isOn": true
+        },
+        {
+          "name": "PayPal",
+          "uid": "paypal",
+          "image": "/paymentOptions/paypal.png",
+          "isOn": true
+        },
+        {
+          "name": "Visa",
+          "uid": "visa",
+          "image": "/paymentOptions/visa.png",
+          "isOn": true
+        }
+      ],
+      "id": 1
+    },
+    {
+      "businessId": 2,
+      "options": [
+        {
+          "name": "All",
+          "uid": "all",
+          "image": "",
+          "isOn": true
+        },
+        {
+          "name": "Telebirr",
+          "uid": "telebirr",
+          "image": "/paymentOptions/telebirr.png",
+          "isOn": true
+        },
+        {
+          "name": "CBEbirr",
+          "uid": "cbebirr",
+          "image": "/paymentOptions/cbebirr.png",
+          "isOn": true
+        },
+        {
+          "name": "M-Pesa",
+          "uid": "m-pesa",
+          "image": "/paymentOptions/m-pesa.png",
+          "isOn": true
+        },
+        {
+          "name": "PayPal",
+          "uid": "paypal",
+          "image": "/paymentOptions/paypal.png",
+          "isOn": true
+        },
+        {
+          "name": "Visa",
+          "uid": "visa",
+          "image": "/paymentOptions/visa.png",
+          "isOn": true
+        }
+      ],
+      "id": 2
+    }
+  ]
 }
